@@ -1,0 +1,19 @@
+<head>
+<style>
+	h1 {
+	font-size:50px;
+	color:white;
+	}
+body {
+	background-color:black
+}
+</style>
+</head>
+<body>
+<center>
+	<h1>Lets play a game!</h1>
+	<button onclick="myFunction()">Rock</button>
+	<button onclick="myFunction()">Paper</button>
+	<button onclick="myFunction()">Scissors</button>
+</center>
+</body>
